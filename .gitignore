@@ -1,2 +1,4 @@
-/secrets
-/.terraform
+/create_vm/secrets
+/create_vm/.terraform
+/create_lb/secrets
+/create_lb/.terraform
